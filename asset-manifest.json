@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MovieFinder/static/css/main.66ce4e14.chunk.css",
+    "main.js": "/MovieFinder/static/js/main.5af07da8.chunk.js",
+    "main.js.map": "/MovieFinder/static/js/main.5af07da8.chunk.js.map",
+    "runtime-main.js": "/MovieFinder/static/js/runtime-main.c07a0a86.js",
+    "runtime-main.js.map": "/MovieFinder/static/js/runtime-main.c07a0a86.js.map",
+    "static/js/2.5664acc8.chunk.js": "/MovieFinder/static/js/2.5664acc8.chunk.js",
+    "static/js/2.5664acc8.chunk.js.map": "/MovieFinder/static/js/2.5664acc8.chunk.js.map",
+    "index.html": "/MovieFinder/index.html",
+    "precache-manifest.d065f3b682ceb40ec622f4a8633ee067.js": "/MovieFinder/precache-manifest.d065f3b682ceb40ec622f4a8633ee067.js",
+    "service-worker.js": "/MovieFinder/service-worker.js",
+    "static/css/main.66ce4e14.chunk.css.map": "/MovieFinder/static/css/main.66ce4e14.chunk.css.map",
+    "static/js/2.5664acc8.chunk.js.LICENSE.txt": "/MovieFinder/static/js/2.5664acc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c07a0a86.js",
+    "static/js/2.5664acc8.chunk.js",
+    "static/css/main.66ce4e14.chunk.css",
+    "static/js/main.5af07da8.chunk.js"
+  ]
+}
